@@ -1,4 +1,4 @@
-# JavaScript Map
+# JavaScript Map!
 
 ## Objectives
 
